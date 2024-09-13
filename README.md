@@ -1,4 +1,6 @@
 # Gestion-de-ingresos-hospitalarios
 Tomando un Dataset artifical creado con fines académicos, utilizamos un muestreo de 55,500 pacientes hospitalizados en un período de 5 años (mayo del 2019 - mayo 2024) para generar un modelo que nos ayude a identificar las patologías más frecuentes, los fármacos más utilizados, los períodos de estancia intrahospitalaria y los potenciales grupos sanguíneos más requeridos al momento de solicitar donantes. La obtención de predicciones puede anticipar qué medicamentos son necesarios comprar en mayor cantidad, qué tipo de especialidad médica requiere mayor personal, estimar el tiempo de estancia intrahospitalaria para cotizar costos, y también predecir qué aseguradoras resultan más necesarias en caso de recortes de presupuesto. 
 
+En el presente proyecto nos enfocaremos en desarrollar un modelo de ML que nos ayude a predecir la medicación que un paciente requerirá en su hospitalización con base a su edad y condición médica. Si bien muchos otros factores influyen de manera predominante en la realidad, esta práctica es con fines académicos y funciona como cimiento para posibles futuros proyectos.
+
 Fuente: https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
