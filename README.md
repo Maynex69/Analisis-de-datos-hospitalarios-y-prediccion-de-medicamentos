@@ -3,4 +3,9 @@ Tomando un Dataset artifical creado con fines académicos, utilizamos un muestre
 
 En el presente proyecto nos enfocaremos en desarrollar un modelo de ML que nos ayude a predecir la medicación que un paciente requerirá en su hospitalización con base a su edad y condición médica. Si bien muchos otros factores influyen de manera predominante en la realidad, esta práctica es con fines académicos y funciona como cimiento para posibles futuros proyectos.
 
+Al final del presente texto encontrará la liga donde obtuvimos el dataset que se usó en la sección de "Limpieza y obtención de datos"; posteriormente, al haber obtenido un nuevo dataset, este fue modificado con la finalidad de obtener datos médicos precisos y poder entrenar mejor al modelo. Esto se representa en el apartado de "Creación de nuevo dataset con datos más precisos". Al concluir y obtener el dataset final colocamos un enlace que permite su descarga directa en la sección de "Dataset de entrenamiento" el cual ya puede ser utilizado directamente en nuestro modelo de predicción situado en "MODELO DE PREDICCIÓN" que lleva a un entorno de Google Colab donde está el código de nuestro modelo. Finalmente estos apartados tuvieron que ser transformados para su reproducción mediante Streamlit y los podremos encontrar en "Modelo stramlit", "Sreamlit para visualización" y "Streamlit página de limpieza". Estos códigos fueron posteriormente adaptados a lo que sería la aplicación compartida para su reproducción remota. 
+
+
+
+
 Fuente: https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data
